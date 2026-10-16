@@ -5,6 +5,17 @@
     <link>https://glido.studio</link>
     <description>Glido updates</description>
     <item>
+      <title>Glido 1.0.1</title>
+      <pubDate>Fri, 16 Oct 2026 21:47:11 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Updates now open in Glido's own window with what's new, and never interrupt a recording</li>
+<li>Settings › Updates shows where an update is: checking, downloading or ready to install</li>
+<li>Settings, Unlock and Setup windows fit their content, with no empty space at the bottom</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/glido-releases/releases/download/v1.0.1/Glido-1.0.1.dmg" sparkle:edSignature="FE9+Eptta+jnpIhGym55vqPueAQvAyNTAKmPkzskHBnvWwCMMQ5heKNMgVqgxJKkqTQ2whGUx0cr7gSDT+2iBQ==" length="8608417" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Glido 1.0.0</title>
       <pubDate>Fri, 16 Oct 2026 19:53:31 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
