@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Glido</title>
+    <link>https://glido.studio</link>
+    <description>Glido updates</description>
+    <item>
+      <title>Glido 1.0.0</title>
+      <pubDate>Fri, 16 Oct 2026 19:53:31 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Record your screen with ⌘⇧2 and get a polished video that zooms in on every click by itself</li>
+<li>Turn the same recording into an interactive demo people click through, with tooltips and step descriptions</li>
+<li>Edit demo steps: wording, descriptions, blurs, intro and ending cards</li>
+<li>Export MP4 (1080p or 4K), GIF, or a demo you can host anywhere; every export is kept, never overwritten</li>
+<li>The Library keeps projects, folders and exports together, and tells you when an export is out of date</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/glido-releases/releases/download/v1.0.0/Glido-1.0.0.dmg" sparkle:edSignature="pdpIAeSrN8Tc21e12oMHhAIIr0gffKVwDab/skpqwJyJpVF1wq1uI7uQppnd28yRPNwK/82P/bdGqftQwpKBBA==" length="8470651" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
