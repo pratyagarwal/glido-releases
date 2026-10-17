@@ -5,6 +5,18 @@
     <link>https://glido.studio</link>
     <description>Glido updates</description>
     <item>
+      <title>Glido 1.0.2</title>
+      <pubDate>Sat, 17 Oct 2026 08:49:43 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The Library and your recordings now share one window: open a recording and go back with ‹ Library (⌘L)</li>
+<li>Glido stays in the Dock and ⌘-Tab until you quit it; click the Dock icon to open the Library</li>
+<li>The green window button goes full screen</li>
+<li>Glido › Settings… (⌘,) opens Glido's settings</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/glido-releases/releases/download/v1.0.2/Glido-1.0.2.dmg" sparkle:edSignature="JhDV5fKeQweBXuJHItN/kwM5sKCLhOG/W937uIkML6Fe2gmOnTS/dLpYgyid4tOpjH8bJSZpcPSluuZLHuz8AQ==" length="8621047" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Glido 1.0.1</title>
       <pubDate>Fri, 16 Oct 2026 21:47:11 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
