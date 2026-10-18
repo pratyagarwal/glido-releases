@@ -5,6 +5,23 @@
     <link>https://glido.studio</link>
     <description>Glido updates</description>
     <item>
+      <title>Glido 1.1.0</title>
+      <pubDate>Sun, 18 Oct 2026 20:48:39 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Your camera in the video: a soft 3D camera slot, nine spots, shapes and sizes; turn it on or off from any recording toolbar and drag the bubble out of your way</li>
+<li>Camera layouts along the timeline: full screen, split, side by side, hidden, presenter, sticker and cutout, with smooth changes between them</li>
+<li>Cutouts remove your background right on your Mac, live while you edit</li>
+<li>Cut tool: press C, click to cut, remove pieces, drag an edge to trim or bring footage back</li>
+<li>Zoom track: add a zoom anywhere, move it, resize it, change its level</li>
+<li>Smoother automatic zooms and a smoother cursor</li>
+<li>Zoom into the timeline with the slider, a pinch or ⌘ + scroll</li>
+<li>Microphone and Mac sound, each on its own track with volume and mute</li>
+<li>Record a single window or an area of the screen</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/glido-releases/releases/download/v1.1.0/Glido-1.1.0.dmg" sparkle:edSignature="1LlrYK5F2GOnOrsv5C10g+D0Jud3n4nbUC01HYT7YzLdc8AITR8xWE04f3wFfnQsXlAmUxUvSL+SAS0Kl5UnAA==" length="11059343" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Glido 1.0.3</title>
       <pubDate>Sun, 18 Oct 2026 12:09:47 +0000</pubDate>
       <sparkle:version>4</sparkle:version>
