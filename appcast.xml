@@ -5,6 +5,20 @@
     <link>https://glido.studio</link>
     <description>Glido updates</description>
     <item>
+      <title>Glido 1.0.3</title>
+      <pubDate>Sun, 18 Oct 2026 12:09:47 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New recorder: a blue timer in the menu bar, with a live preview, Pause, Start over and Discard</li>
+<li>Or a slim floating bar on the left edge that you can drag, or shrink to a dot</li>
+<li>A 3, 2, 1 countdown before recording (can be turned off)</li>
+<li>Settings now live in the Glido window: General, Recording, License, Updates, About</li>
+<li>Trials start at checkout: monthly and yearly plans are free for 7 days</li>
+<li>Glido opens the Library every time you start it; full screen no longer leaves a gap</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/glido-releases/releases/download/v1.0.3/Glido-1.0.3.dmg" sparkle:edSignature="RAeE13W9uTCOGj44hc8V4gLELyzuqa7U32650ndXneIP6UsTRvOXCS4q6vak+8tm4vz7CSPZ5EpsoZvTGwf9CA==" length="9237185" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Glido 1.0.2</title>
       <pubDate>Sat, 17 Oct 2026 08:49:43 +0000</pubDate>
       <sparkle:version>3</sparkle:version>
