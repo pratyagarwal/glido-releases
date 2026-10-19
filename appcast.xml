@@ -5,6 +5,22 @@
     <link>https://glido.studio</link>
     <description>Glido updates</description>
     <item>
+      <title>Glido 1.2.0</title>
+      <pubDate>Mon, 19 Oct 2026 08:50:34 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Backgrounds: macOS wallpapers, gradients, colours or your own image, with padding, corners, shadow and frames</li>
+<li>Mask: blur, pixelate or highlight any part of the screen for as long as you need, right on the preview</li>
+<li>Find private details: Glido reads your recording on your Mac and hides emails, API keys, card and phone numbers for you</li>
+<li>Crop the recording, with presets and a one-click "No menu bar"</li>
+<li>Video shapes: wide, square, classic, vertical, tall and portrait</li>
+<li>A bigger preview, a cleaner top bar and one consistent look across the app</li>
+<li>New timeline blocks for zooms, camera layouts and masks</li>
+<li>Exports open in a small panel with a picture of each export, and tell you when one is older than your edits</li></ul>]]></description>
+      <enclosure url="https://github.com/pratyagarwal/glido-releases/releases/download/v1.2.0/Glido-1.2.0.dmg" sparkle:edSignature="7Za5ACTh1qPXDNslt7X3cin7Hte2np02xB1ESnsoxqWwJgR7hCNVvLr+LwN9CnzK/lUhh88wbvbI+GNPWDv3CQ==" length="12161918" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Glido 1.1.0</title>
       <pubDate>Sun, 18 Oct 2026 20:48:39 +0000</pubDate>
       <sparkle:version>5</sparkle:version>
